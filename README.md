@@ -1,5 +1,8 @@
 # Voron-1.55-3030
-Modifications for Voron 1.55 Machines
+
+
+Modifications for Voron
+1.55 Machines
 
 https://www.reddit.com/r/voroncorexy/
 
@@ -27,18 +30,19 @@ all metal version.)
 These
 files allow the following: 
 
+Full
+metal Z supports( with alignment stl’s available) , and/or full metal bed frame
+with a bed plate design available.
 
-These
-files allow the following: 
+ 12mm were its most needed (xy). A revised
+carriage adapted for 12mm chinese “igus”, e3d V6 and bltouch from volcom8190
+carriage files.
 
-Full metal Z supports(
-with alignment stl’s available) , and/or full metal bed frame with a bed plate
-design available.12mm were its most needed
-(xy). A revised carriage adapted for 12mm chinese “igus”, e3d V6 and bltouch
-from volcom8190 carriage files.Full metal Z suports with
-the use of Steel
-8mm SK8 Linear Bearing Rail Shaft Guide Support Bracket ( aligned with the
-“ bitolas “ files ). An extra extrusion needs to be added to the frame were
-this will attach. This also adds improved stiffness to the frame.Design
-for a full metal bed frame, supported vertically by LMF8LUU bearings attached
-to the bed frame.
+Full
+metal Z suports with the use of Steel 8mm SK8 Linear Bearing Rail Shaft Guide Support
+Bracket ( aligned with the “ bitolas “ files ). An extra extrusion needs
+to be added to the frame were this will attach. This also adds improved stiffness
+to the frame.
+
+Design for a full metal bed frame, supported vertically
+by LMF8LUU bearings attached to the bed frame.

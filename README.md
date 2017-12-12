@@ -42,11 +42,3 @@ the use of Steel
 this will attach. This also adds improved stiffness to the frame.Design
 for a full metal bed frame, supported vertically by LMF8LUU bearings attached
 to the bed frame.
-
-
-
-
-
-
-
-

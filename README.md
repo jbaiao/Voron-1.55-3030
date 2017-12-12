@@ -26,5 +26,5 @@ These files allow the following:
 Attributions
 ============
 
-jbaiao
-Yougurt
+- jbaiao 
+- Yougurt
